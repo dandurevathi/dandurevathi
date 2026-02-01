@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**dandurevathi/dandurevathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Revathi, a final-year engineering student who enjoys turning ideas into working projects.
+I care more about logic, problem-solving, and purpose than flashy code.
 
-Here are some ideas to get you started:
+I’m currently exploring AI, computer vision and neural networks and slowly shaping my profile one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pinned Projects:
+
+Vision-Based Driver Drowsiness Detection – detects drowsy, distracted, and active states using vision techniques
+
+Virtual Navigation Tour – interactive navigation experience for virtual environments
+
+Neural Network Music Genre Prediction – predicts genre and redirects users to the song on YouTube (idea-driven project)
+
+Portfolio Website – simple for now, improving it step by step for recruiters
+
+I believe a strong idea + clear logic matters as much as code, and I’m continuously learning to bridge both.
